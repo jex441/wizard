@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
 	// server action to handle form submission
 	// wrong password, duplicate email, etc
